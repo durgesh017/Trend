@@ -1,14 +1,5 @@
-# Shoply-E-Commerce App
-E commerce Shopping Application is made using Firebase Realtime Database and Firebase Storage. I used Firebase Realtime Database for CRUD Operation. I used Firebase Storage for Image Storage. So E commerce Shopping Application was made using Kotlin and Firebase.
+# Trend Teller (Round-1)
 
-The codebase focuses 👓 on following key things:
-
-Code structuring, style and comments
-Dependency injection
-Offline first ✈️
-Kotlin
-And tests 🛠
-Emojis (ofcourse) 😛
 
 ### Details
 There are two panel in this Application User Panel and Admin Panel. 
@@ -21,7 +12,7 @@ In User Panel user can see all the product that are Inserted by Admin. User can 
 
 ## Developer
 
-- [@Durgesh005](https://github.com/Durgesh005)
+- [@Durgesh005](https://github.com/555Durgesh)
 
 
 ## Features
@@ -62,23 +53,3 @@ In User Panel user can see all the product that are Inserted by Admin. User can 
 </p>
 
 
-## Laungage, Libraries and tools 🛠
-
-News App uses libraries and tools used to build Modern Android application, mainly part of Android Jetpack 🚀
-
-1. Kotlin
-2. Rest API
-3. Retrofit
-4. Other Android Jetpack components
-
-## Feedback
-
-If you have any feedback, please reach out to us at durgeshmishra6099@gmail.com
-## 🛠 Skills
-
-C Language, C++ , Core JAVA, Kotlin, Android 
-
-
-## Support
-
-For support, email durgeshmishra6099@gmail.com
