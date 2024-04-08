@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="them">#002366</color>
+    <color name="text">#B3FFFFFF</color>
+    <color name="bg_color">#f1f3f6</color>
+
+
+    <color name="tab_indicator_color">#25c4a4</color>
+    <color name="grey">#DFE1E6</color>
+    <color name="tools_text">#172B4D</color>
+    <color name="grey_text">#A5ADBA</color>
+    <color name="red">#FF0000</color>
+
+    <color name="viewfinder_border">#ffffff</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_mask">#b3000000</color>
+    <color name="light_bg_color">#eef0f3</color>
+
+    <color name="yellow">#D2980B</color>
+    <color name="text_black">#232425</color>
+</resources>

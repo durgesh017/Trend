@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163785895967",
+    "project_id": "trend-teller",
+    "storage_bucket": "trend-teller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163785895967:android:7f51efbd5caf8c47b9652a",
+        "android_client_info": {
+          "package_name": "com.example.trendteller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoXGRwProSF9Xx0UQu_2fyvZ3RZ092Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
