@@ -16,7 +16,7 @@ The project began with setting up a bottom navigation bar to split the app into 
 
 
 
-https://github.com/555Durgesh/Trend/assets/101611806/9a9d0973-054d-496f-be4e-d8ea7be70244
+<img src "https://github.com/555Durgesh/Trend/assets/101611806/9a9d0973-054d-496f-be4e-d8ea7be70244" width=22% height=35%>
 
 
 </p>
