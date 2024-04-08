@@ -6,18 +6,15 @@ The project began with setting up a bottom navigation bar to split the app into 
 
 ## Features
 
-- Add to cart
-
-- Wishlist your favorite product
-
-- Simple User Experience
 
 
-### User Side Screenshots
+### Video and Screenshots
 
 <p float="center">
   
 <img src="https://user-images.githubusercontent.com/101611806/191412103-202a85a5-1afc-4b09-abfc-db93ba24f50e.png" width=22% height=35%>
+
+![wallpaperflare-cropped](https://github.com/555Durgesh/Trend/assets/101611806/4c2f89e9-0ed9-46a2-91fc-ed446076a293)
 
 </p>
 
