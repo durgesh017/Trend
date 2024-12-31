@@ -1,4 +1,4 @@
-# Trend Teller (Round-1)
+# Trend Teller
 
 
 ### Details
